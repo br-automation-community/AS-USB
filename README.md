@@ -10,7 +10,7 @@ This is a sample project for automatically mounting multiple USB sticks on a B&R
 
 ![](Logical/mappView/Resources/Media/screenshot_main.png)
 
-Download the latest release from [**here.**](https://github.com/br-automation-com/AS-USB/releases/latest) 
+Download the latest release from [**here.**](https://github.com/br-automation-community/AS-USB/releases/latest) 
 
 ## Description
 <a name="Description"></a>
