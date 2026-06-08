@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio FileVersion="6.0"?>
+<OpcUaSource FileVersion="10">
+  <Aliases>
+    <ACLAliases />
+    <EURangeViolationAliases />
+    <EURangesAliases />
+    <EngineeringUnitAliases />
+  </Aliases>
+  <Module Name="&lt;Default&gt;">
+    <GlobalVariables Name="Global Variables">
+      <Variable Name="USB">
+        <Variable Name="PAR">
+          <Variable Name="is_connected" RecursiveEnable="2" />
+          <Variable Name="refresh_interval" />
+          <Variable Name="ignore_dongle" />
+        </Variable>
+        <Variable Name="ERR">
+          <Variable Name="state" />
+          <Variable Name="text" />
+        </Variable>
+        <Variable Name="status" />
+        <Variable Name="CMD">
+          <Variable Name="auto_scan" />
+          <Variable Name="error_reset" />
+        </Variable>
+      </Variable>
+    </GlobalVariables>
+    <Task Name="UsbDevice">
+      <Variable Name="state_machine" />
+    </Task>
+  </Module>
+</OpcUaSource>
