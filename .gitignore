@@ -2,6 +2,11 @@
 /Diagnosis
 /Temp
 /Docs
+.claude
+.vscode
+.github
 /*.set
 /*.isopen
+/*.log
 
+CLAUDE.md
