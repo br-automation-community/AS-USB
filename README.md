@@ -76,14 +76,17 @@ When a USB stick is unglugged during a writing procedeure it is important to sto
 
 <a name="Requirements"></a>
 ## Requirements
-* Automation Studio 4.5
-* Automation Runtime D4.52
+* Automation Studio 6.5
+* Automation Runtime 6.6.3
 
 Recommended task class is #8 with a 10ms cycle time.
 
 <a name="Revision-History"></a>
 
 ## Revision History
+
+#### Version 0.5
+- Migrated project to Automation Studio 6.5 / Automation Runtime 6.6.3
 
 #### Version 0.4
 - Remove state variable from PAR structure
